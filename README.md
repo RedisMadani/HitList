@@ -1,5 +1,6 @@
 # HitList
 
+![HitList](https://github.com/RedisMadani/HitList/assets/136177376/1999965a-c8ff-464a-8c2e-5cb032bc2a13)
 
 ## Overview
 HitList is a Swift app that demonstrates the implementation of Core Data. It serves as a demo app for Ray Wenderlich's tech blog, showcasing the usage of Core Data framework for persistent storage in iOS applications.
